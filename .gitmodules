@@ -1,9 +1,6 @@
 [submodule "Analysis_Valid/fast-krippendorff"]
 	path = Analysis_Valid/fast-krippendorff
 	url = https://github.com/pln-fing-udelar/fast-krippendorff.git
-[submodule "Analysis/krippendorff"]
-	path = Analysis/krippendorff
-	url = https://github.com/grrrr/krippendorff-alpha.git
 [submodule "Analysis_Valid/krippendorff"]
 	path = Analysis_Valid/krippendorff
 	url = https://github.com/grrrr/krippendorff-alpha.git
