@@ -4,7 +4,7 @@
 `4456   4456 180797 030820_first_public_finding_atts.csv`
 
 
-* data (from `Data-Collection/raws/030820_first_public.pkl`)\
+* CHANEL Valid data (from `Data-Collection/raws/030820_first_public.pkl`). This is an inital collection to validate the collection procedure and rater agreement.\
   `3568  10704 125130 test_data/030820_first_public-raw.csv`
   
 * split into ratings exerpts and assignment metadata\
