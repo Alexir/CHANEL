@@ -1,0 +1,10 @@
+a	1	stat
+b	1	foob
+a	2	sta4
+b	2	sta3
+a	3	foob
+b	3	foob
+a	4	stat
+b	4	sta1
+a	5	sta2
+c	5	last
